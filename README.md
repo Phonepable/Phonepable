@@ -6,9 +6,9 @@ Welcome to Phonepable's open-source knowledge hub! Here, we share:
 - 🛠️ Troubleshooting tutorials
 
 ## Featured Articles
-1. [Redmi Note 13 Pro vs Realme 11 Pro: Camera Shootout](https://phonepable.com/tech-news/)
-2. [PS5 Slim vs Xbox Series S: Which Should You Buy?](https://phonepable.com/brands/)
-3. [Underrated Smartphone Features You're Not Using](https://phonepable.com/brand/latest-mobiles/)
+1. [Phonepable Tech News](https://phonepable.com/tech-news/)
+2. [Phonepable All Brands in the world](https://phonepable.com/brands/)
+3. [Phonepable Latest Mobile](https://phonepable.com/brand/latest-mobiles/)
 
 ## How to Contribute
 Found outdated info? Help us improve:
